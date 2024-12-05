@@ -30,8 +30,6 @@ if st.button("Bashorat qilish"):
         # Natijani ko'rsatish
         st.success(f"Sentiment: {sentiment}")
 
-# Fayl yuklab olish havolasi
-st.write("Favicon kerakmi? Ushbu faylni yuklab oling:")
-st.download_button(label="Favicon yuklab olish", data=open('static/favicon.ico', 'rb').read(), file_name='favicon.ico', mime='image/x-icon')
+
 
 
