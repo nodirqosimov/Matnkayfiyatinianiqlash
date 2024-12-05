@@ -1,0 +1,2 @@
+# Matnkayfiyatinianiqlash
+ Matn kayfiyatini aniqlash
